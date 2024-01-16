@@ -1,0 +1,79 @@
+.appContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+  
+
+.sortContainer {
+    margin-bottom: 10px;
+}
+  
+
+.searchContainer {
+    margin-bottom: 20px;
+}
+
+.projectList li {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+  
+.projectList li .projectNameClass {
+    margin-bottom: 10px;
+}
+  
+.projectList li .projectIDClass,
+.projectList li .projectDescriptionClass,
+.projectList li .projectDatesClass {
+    margin-bottom: 5px;
+}
+  
+.projectList li button {
+    margin-top: 10px;
+    align-self: flex-end;
+}
+  
+.projectForm {
+    margin-top: 20px;
+}
+  
+.projectForm h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+  
+.projectForm label {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+.projectForm input[type="text"],
+.projectForm textarea,
+.projectForm input[type="datetime-local"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+  
+.projectForm button[type="submit"] {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #044ed8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  

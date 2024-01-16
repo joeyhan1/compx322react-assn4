@@ -1,0 +1,37 @@
+[
+   {
+    "projectName": "CRM System",
+    "projectIdentifier": "1",
+    "description": "CRM (Customer Relationship Management) systems help businesses organize relationships with their customers. ",
+    "start_date": "2023-02-01 08:00",
+    "end_date":   "2023-09-30 09:00"
+   },
+   {
+    "projectName": "Heritage New Zealand's Archaeological Reports Digital Library",
+    "projectIdentifier": "2",
+    "description": "A Greenstone Digital Library project providing access to Heritage New Zealand's PDF-based Archaeological Report, available through https://www.heritage.org.nz/protecting-heritage/archaeology/digital-library",
+    "start_date": "2023-01-01 09:00",
+    "end_date":   "2023-08-30 24:00"
+   },
+   {
+    "projectName": "Local Charity Goods Alerting System",
+    "projectIdentifier": "3",
+    "description": "A mobile app that allows users to register for items they are looking for (such as a stroller), and be alerted when good come in that match the description.",
+    "start_date": "2023-02-01 01:00",
+    "end_date":   "2024-02-28 01:00"
+   },
+   {
+    "projectName": "Hey There, Interact with Me!",
+    "projectIdentifier": "4",
+    "description": "A WebSocket based system designed to allow users to control displays in public spaces such as museums and airports using their phones.",
+    "start_date": "2022-07-09 07:00",
+    "end_date":   "2023-06-30 10:00"
+   },
+   {
+    "projectName": "E-Commerce Website for the Visually Impaired",
+    "projectIdentifier": "5",
+    "description": "An ecommerce website is developed to assist blind people that automatically recognizes clothing patterns and colours.",
+    "start_date": "2023-01-01 12:00",
+    "end_date":   "2023-10-05 12:00"
+   }
+]
